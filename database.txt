@@ -1,0 +1,20 @@
+email, subject, message
+x@x.com, New, Hello!
+mam@gmail.com, Hello, 
+x@x.com, Hello, Hello sir!
+
+x@x.com, Hello, Hello sir!
+
+x@x.com, Hello, Hello sir!
+x@x.com, Hello, Hello sir!
+a@g.com, Hi!, Hello
+
+ads@d.com, fsd, fsd
+ads@d.com, fsd, fsd
+ads@d.com, fsd, fsd
+x@x.com, dd, dd
+x@x.com, dd, dd
+x@x.com, dd, dd
+x@x.com, dd, dd
+x@x.com, dd, dd
+x@x.com, dd, dd
